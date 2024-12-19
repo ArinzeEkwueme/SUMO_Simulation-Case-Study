@@ -85,8 +85,8 @@ legend_handles = [
 plt.legend(handles=legend_handles, loc='upper right', fontsize=12)
 
 # Add title, axis labels, and grid
-plt.title('Box Plot of Vehicle Distances vs Scenarios')
-plt.xlabel('Scenarios')
+plt.title('Box Plot of Vehicle Distances vs Simulation Scenarios')
+plt.xlabel('Simulation Scenarios')
 plt.ylabel('Vehicle Distances (kilometers)')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 

@@ -85,8 +85,8 @@ legend_handles = [
 plt.legend(handles=legend_handles, loc='upper right', fontsize=12)
 
 # Add title, axis labels, and grid
-plt.title('Box Plot of Vehicle Travel Times vs Scenarios')
-plt.xlabel('Scenarios')
+plt.title('Box Plot of Vehicle Travel Times vs Simulation Scenarios')
+plt.xlabel('Simulation Scenarios')
 plt.ylabel('Travel Times (seconds)')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 
