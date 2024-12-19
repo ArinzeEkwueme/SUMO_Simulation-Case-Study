@@ -1,0 +1,201 @@
+> Executing step 0
+>> Running router on outputs/trips.trips.xml
+>>> Begin time: 2024-12-19 00:07:52.109702
+>>> End time: 2024-12-19 00:07:54.177279
+>>> Duration: 0:00:02.067577
+<<
+>> Running router on outputs/trips.trips.CAV.xml
+>>> Begin time: 2024-12-19 00:07:54.178275
+>>> End time: 2024-12-19 00:07:54.552187
+>>> Duration: 0:00:00.373912
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 00:07:55.287353
+>>> End time: 2024-12-19 00:52:48.160111
+>>> Duration: 0:44:52.872758
+<<
+< relative travel time deviation in the last 1 steps: 0.00000
+< Step 0 ended (duration: 0:44:56.247506)
+------------------
+
+> Executing step 1
+>> Running router on 000/trips_000.rou.alt.xml
+>>> Begin time: 2024-12-19 00:52:48.360546
+>>> End time: 2024-12-19 00:52:52.676466
+>>> Duration: 0:00:04.315920
+<<
+>> Running router on 000/trips.trips.CAV_000.rou.alt.xml
+>>> Begin time: 2024-12-19 00:52:52.677464
+>>> End time: 2024-12-19 00:52:53.442071
+>>> Duration: 0:00:00.764607
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 00:52:54.348523
+>>> End time: 2024-12-19 01:23:03.732177
+>>> Duration: 0:30:09.383654
+<<
+< relative travel time deviation in the last 2 steps: 0.22950
+< Step 1 ended (duration: 0:30:15.616525)
+------------------
+
+> Executing step 2
+>> Running router on 001/trips_001.rou.alt.xml
+>>> Begin time: 2024-12-19 01:23:03.979593
+>>> End time: 2024-12-19 01:23:07.676063
+>>> Duration: 0:00:03.696470
+<<
+>> Running router on 001/trips.trips.CAV_001.rou.alt.xml
+>>> Begin time: 2024-12-19 01:23:07.677061
+>>> End time: 2024-12-19 01:23:08.314704
+>>> Duration: 0:00:00.637643
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 01:23:09.210282
+>>> End time: 2024-12-19 01:46:49.975104
+>>> Duration: 0:23:40.764822
+<<
+< relative travel time deviation in the last 3 steps: 0.28704
+< Step 2 ended (duration: 0:23:46.164127)
+------------------
+
+> Executing step 3
+>> Running router on 002/trips_002.rou.alt.xml
+>>> Begin time: 2024-12-19 01:46:50.146687
+>>> End time: 2024-12-19 01:46:54.310550
+>>> Duration: 0:00:04.163863
+<<
+>> Running router on 002/trips.trips.CAV_002.rou.alt.xml
+>>> Begin time: 2024-12-19 01:46:54.312053
+>>> End time: 2024-12-19 01:46:54.964269
+>>> Duration: 0:00:00.652216
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 01:46:55.882885
+>>> End time: 2024-12-19 02:07:36.740805
+>>> Duration: 0:20:40.857920
+<<
+< relative travel time deviation in the last 4 steps: 0.32236
+< Step 3 ended (duration: 0:20:46.803217)
+------------------
+
+> Executing step 4
+>> Running router on 003/trips_003.rou.alt.xml
+>>> Begin time: 2024-12-19 02:07:36.951900
+>>> End time: 2024-12-19 02:07:41.121868
+>>> Duration: 0:00:04.169968
+<<
+>> Running router on 003/trips.trips.CAV_003.rou.alt.xml
+>>> Begin time: 2024-12-19 02:07:41.123242
+>>> End time: 2024-12-19 02:07:41.729275
+>>> Duration: 0:00:00.606033
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 02:07:42.568991
+>>> End time: 2024-12-19 02:29:35.097912
+>>> Duration: 0:21:52.528921
+<<
+< relative travel time deviation in the last 5 steps: 0.31476
+< Step 4 ended (duration: 0:21:58.426689)
+------------------
+
+> Executing step 5
+>> Running router on 004/trips_004.rou.alt.xml
+>>> Begin time: 2024-12-19 02:29:35.379094
+>>> End time: 2024-12-19 02:29:39.748630
+>>> Duration: 0:00:04.369536
+<<
+>> Running router on 004/trips.trips.CAV_004.rou.alt.xml
+>>> Begin time: 2024-12-19 02:29:39.748630
+>>> End time: 2024-12-19 02:29:40.354953
+>>> Duration: 0:00:00.606323
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 02:29:41.210476
+>>> End time: 2024-12-19 02:41:40.328711
+>>> Duration: 0:11:59.118235
+<<
+< relative travel time deviation in the last 5 steps: 0.23941
+< Step 5 ended (duration: 0:12:05.181517)
+------------------
+
+> Executing step 6
+>> Running router on 005/trips_005.rou.alt.xml
+>>> Begin time: 2024-12-19 02:41:40.561118
+>>> End time: 2024-12-19 02:41:45.074123
+>>> Duration: 0:00:04.513005
+<<
+>> Running router on 005/trips.trips.CAV_005.rou.alt.xml
+>>> Begin time: 2024-12-19 02:41:45.075120
+>>> End time: 2024-12-19 02:41:45.634657
+>>> Duration: 0:00:00.559537
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 02:41:46.528419
+>>> End time: 2024-12-19 02:55:20.208009
+>>> Duration: 0:13:33.679590
+<<
+< relative travel time deviation in the last 5 steps: 0.23680
+< Step 6 ended (duration: 0:13:39.874153)
+------------------
+
+> Executing step 7
+>> Running router on 006/trips_006.rou.alt.xml
+>>> Begin time: 2024-12-19 02:55:20.437460
+>>> End time: 2024-12-19 02:55:25.189449
+>>> Duration: 0:00:04.751989
+<<
+>> Running router on 006/trips.trips.CAV_006.rou.alt.xml
+>>> Begin time: 2024-12-19 02:55:25.191440
+>>> End time: 2024-12-19 02:55:25.760382
+>>> Duration: 0:00:00.568942
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 02:55:26.677427
+>>> End time: 2024-12-19 03:07:38.585928
+>>> Duration: 0:12:11.908501
+<<
+< relative travel time deviation in the last 5 steps: 0.24836
+< Step 7 ended (duration: 0:12:18.417015)
+------------------
+
+> Executing step 8
+>> Running router on 007/trips_007.rou.alt.xml
+>>> Begin time: 2024-12-19 03:07:38.857544
+>>> End time: 2024-12-19 03:07:43.498409
+>>> Duration: 0:00:04.640865
+<<
+>> Running router on 007/trips.trips.CAV_007.rou.alt.xml
+>>> Begin time: 2024-12-19 03:07:43.499410
+>>> End time: 2024-12-19 03:07:44.073788
+>>> Duration: 0:00:00.574378
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 03:07:44.951252
+>>> End time: 2024-12-19 03:16:41.415940
+>>> Duration: 0:08:56.464688
+<<
+< relative travel time deviation in the last 5 steps: 0.30403
+< Step 8 ended (duration: 0:09:02.799528)
+------------------
+
+> Executing step 9
+>> Running router on 008/trips_008.rou.alt.xml
+>>> Begin time: 2024-12-19 03:16:41.659331
+>>> End time: 2024-12-19 03:16:46.347674
+>>> Duration: 0:00:04.688343
+<<
+>> Running router on 008/trips.trips.CAV_008.rou.alt.xml
+>>> Begin time: 2024-12-19 03:16:46.348671
+>>> End time: 2024-12-19 03:16:46.845388
+>>> Duration: 0:00:00.496717
+<<
+>> Running simulation
+>>> Begin time: 2024-12-19 03:16:47.753910
+>>> End time: 2024-12-19 03:27:05.888749
+>>> Duration: 0:10:18.134839
+<<
+< relative travel time deviation in the last 5 steps: 0.14224
+< Step 9 ended (duration: 0:10:24.469704)
+------------------
+
+dua-iterate ended (duration: 3:19:14.021839)

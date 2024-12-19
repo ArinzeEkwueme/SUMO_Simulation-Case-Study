@@ -1,0 +1,9 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="CAV" carFollowModel="Krauss" accel="3.5" sigma="0.0" tau="0.9" minGap="1.5" laneChangeModel="LC2013" lcAssertive="0.7" color="0,255,255">
+        <param key="device.rerouting.period" value="60" />
+        <param key="device.rerouting.probability" value="1.0" />
+        <param key="device.rerouting.deterministic" value="false" />
+    </vType>
+
+    <trip id="1" depart="1.02" from="re68" to="re65" fromTaz="30" toTaz="29" departLane="free" departSpeed="max" type="CAV" />
+    </routes>

@@ -1,0 +1,7 @@
+nodes:
+  count: 36
+  type: 'traffic_light'
+  tlType: 'actuated'
+  xSpacing: 500
+  ySpacing: 500
+  yMax: 3000

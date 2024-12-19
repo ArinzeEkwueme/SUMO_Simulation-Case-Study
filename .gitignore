@@ -1,0 +1,3 @@
+.*checkpoints/
+RoutingSimulation/[0-9]*
+*/__pycache__/*

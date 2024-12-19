@@ -1,0 +1,2 @@
+no_iters,max_conv_dev,conv_iters,conv_steps,percentage_mix,CAVRePr,marginal_cost_applied,total_travel_time,total_distance_travelled
+10,0.01,5,10,0,1.0,False,105416014,74999525.83999732
