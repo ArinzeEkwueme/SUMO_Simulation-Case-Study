@@ -2,7 +2,7 @@
 
 ## Summary
 
-This research focuses on implementing routing strategies to optimize road traffic system performance in a multiclass traffic assignment context involving Connected Autonomous Vehicles (CAVs) and Human-Driven Vehicles (HDVs). The study employs simulation-based methodologies using SUMO to analyze network performance, where CAVs exhibit routing and driving behaviors approximating System Optimum (SO), while HDVs adhere to User Equilibrium (UE) principles. The primary objective is to minimize overall travel time and enhance network efficiency through static vehicle rerouting.
+The research focused on implementing routing strategies to optimize road traffic system performance in a multiclass traffic assignment context involving Connected Autonomous Vehicles (CAVs) and Human-Driven Vehicles (HDVs). The study employs simulation-based methodologies using SUMO to analyze network performance, where CAVs exhibit routing and driving behaviors approximating System Optimum (SO), while HDVs adhere to User Equilibrium (UE) principles. The primary objective is to minimize overall travel time and enhance network efficiency through iterative-static vehicle rerouting.
 
 Key tools employed include the DuaIterateMix module and the cav-hdvtripsfilegenerator script, adapted from the work of Behzad, B. M., et al. (2023). This approach integrates cutting-edge algorithms and simulation techniques to evaluate and compare the impact of SO and UE routing strategies, providing valuable insights into traffic flow optimization in mixed vehicular environments.
 
